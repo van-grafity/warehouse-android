@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499791940616",
+    "project_id": "android-warehouse-b7460",
+    "storage_bucket": "android-warehouse-b7460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499791940616:android:950665b190cab9d9fb15bd",
+        "android_client_info": {
+          "package_name": "com.example.fdwarehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499791940616-fmis7agm9sesr0knqago2pfvktevfc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWwTgD3LEN0ofO9wU4UAuMxgkTIXgFnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499791940616-fmis7agm9sesr0knqago2pfvktevfc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
